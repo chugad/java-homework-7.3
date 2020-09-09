@@ -41,8 +41,8 @@
                 </configuration>
                 <executions>
                     <execution>
-                        <id>validate</id>
-                        <phase>validate</phase>
+                        <id>id_verify</id>
+                        <phase>verify</phase>
                         <goals>
                             <goal>check</goal>
                         </goals>
